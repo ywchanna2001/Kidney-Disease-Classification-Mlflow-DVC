@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/ywchanna2001/Kidney-Disease-Classification-Deep-Learning-Project
+Author: ywchanna2001
+Author-email: ywchanna@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/ywchanna2001/Kidney-Disease-Classification-Deep-Learning-Project/issues
+Platform: UNKNOWN
+
 # Kidney-Disease-Classification-MLflow-DVC
 
 
@@ -179,4 +190,6 @@ DVC
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+
 

@@ -4,7 +4,7 @@
 ## Workflows
 
 1. Update config.yaml
-2. Update secrets.yaml [Optional]
+2. Update secrets.yaml [Optional and this will be used to store the scretes keys] 
 3. Update params.yaml
 4. Update the entity
 5. Update the configuration manager in src config
